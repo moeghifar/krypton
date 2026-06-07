@@ -1,0 +1,17 @@
+github.com/cloudflare/sidh v0.0.0-20190228162259-d2f0f90e08aa h1:2pQJShMsIfrl5+NnJRzWSmp6FDUZY3LcnviKOYn9qWM=
+github.com/cloudflare/sidh v0.0.0-20190228162259-d2f0f90e08aa/go.mod h1:o/DcCuWFr9jFzwO+c3y1hhwqKHHKfJ7HvLhWUwRnqfo=
+github.com/cloudflare/tls-tris v0.0.0-20240920015145-3943e1535ec5 h1:xJZwuKSFDqmSZDH7+kC0AL1cfwauL+nnxiXjPDfbTEo=
+github.com/cloudflare/tls-tris v0.0.0-20240920015145-3943e1535ec5/go.mod h1:fIRNL5+voOTImKIoyvskkSLmWQRb+LL7E9hPsDiwAQ0=
+github.com/drand/kyber v1.3.2 h1:Cf3NNcb5bV3eODopr3XVHzImjDK40GiObhFUFG93Zeo=
+github.com/drand/kyber v1.3.2/go.mod h1:ciDFWoC7ajb89niGJnS4C1Xeo4lSJMmbi+km5w8juAI=
+github.com/henrydcase/nobs v0.0.0-20230313231516-25b66236df73 h1:d3rq/Tz+RJ5h1xk6Lt3jbObJN3WhvZm7rV41OCIzUyI=
+github.com/henrydcase/nobs v0.0.0-20230313231516-25b66236df73/go.mod h1:ptK2MJqVLVEa/V/oK8n+MEyUDCSjSylW+jeNmCG1DJo=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+github.com/moeghifar/libgo v0.0.0-20260210090213-f5afbab3b3cb h1:hQtm5V/MFAp+lsnIfFPbi0+XdVJpNiWt1RDhmBALs3A=
+github.com/moeghifar/libgo v0.0.0-20260210090213-f5afbab3b3cb/go.mod h1:y9pzvUOk6x6oeHg7X1ZtFLRbFUWO0HCrV0siOI9cCdM=
+golang.org/x/crypto v0.52.0 h1:RMs7fP2rXdep0CftQlK8Uf+kibLm7qkCcradZWYz988=
+golang.org/x/crypto v0.52.0/go.mod h1:1QgfPxDqh0T2M/elOJtp9RvuR95kVjir0e6/BvEmGbc=
+golang.org/x/sys v0.1.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/sys v0.45.0 h1:dO4czNzziLiiXplLQgBCEpCvXQ3dnkn0SdaZSYdQ+FY=
+golang.org/x/sys v0.45.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
